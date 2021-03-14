@@ -1,0 +1,12 @@
+[submodule "module/libstdcxx"]
+	path = module/libstdcxx
+	url = https://github.com/fishjump/osdevc_libstdcxx.git
+[submodule "module/libcolor"]
+	path = module/libcolor
+	url = https://github.com/fishjump/osdevc_libcolor.git
+[submodule "module/libboot"]
+	path = module/libboot
+	url = https://github.com/fishjump/osdevc_libboot.git
+[submodule "module/libmemory"]
+	path = module/libmemory
+	url = https://github.com/fishjump/osdevc_libmemory.git
