@@ -1,5 +1,4 @@
-#ifndef LIBSCREEN_ENTITY_HPP
-#define LIBSCREEN_ENTITY_HPP
+#pragma once
 
 #include <color/color.hpp>
 #include <std/stdcxx.hpp>
@@ -21,5 +20,3 @@ namespace system::io::entity
     }; // class screen
 
 } // namespace system::io::entity
-
-#endif
